@@ -14,6 +14,7 @@ We usually improve this app weekly during the classes.
 npm install --save-dev jest ts-jest @types/jest
 npx ts-jest config:init
 npx jest fatorial2.test.ts
+npm test
 ```
 
 - pra testar o comum:
